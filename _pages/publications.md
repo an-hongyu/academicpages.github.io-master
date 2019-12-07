@@ -4,17 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
----
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}``
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
----
 •	Refereed Book Chapters
 1.	H. An, K. Bai, and Y. Yi, “The Roadmap to Realize Memristive Three-Dimensional Neuromorphic Computing System,” in Advances in Memristor Neural Networks-Modeling and Applications: IntechOpen, 2018. 
 •	Refereed Journal Articles
