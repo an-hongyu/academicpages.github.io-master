@@ -7,12 +7,14 @@ author_profile: true
 
 
 •	Refereed Book Chapters
-1.	H. An, K. Bai, and Y. Yi, “The Roadmap to Realize Memristive Three-Dimensional Neuromorphic Computing System,” in Advances in Memristor Neural Networks-Modeling and Applications: IntechOpen, 2018. 
+1.	H. An, K. Bai, and Y. Yi, “The Roadmap to Realize Memristive Three-Dimensional Neuromorphic Computing System,” in Advances in Memristor Neural Networks-Modeling and Applications: IntechOpen, 2018.
+ 
 •	Refereed Journal Articles
 1.	H. An, Qiyuan An, Y. Yi, “Realizing Behavior Level Associative Memory Learning through Three-dimensional Memristor-based Neuromorphic Circuits”, IEEE Transactions on Emerging Topics in Computational Intelligence, 2019;
 2.	M. A. Ehsan, H. An, Z. Zhou, and Y. Yi, “A Novel Approach for using TSVs as Membrane Capacitance in Neuromorphic 3D IC,” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2017
 3.	H. An, M. A. Ehsan, Z. Zhou, F. Shen, and Y. Yi, “Monolithic 3D neuromorphic computing system with hybrid CMOS and memristor-based synapses and neurons,” Integration, the VLSI Journal, 2017.
 4.	H. An, J. Li, Y. Li, X. Fu, and Y. Yi, “Three dimensional memristor-based neuromorphic computing system and its application to cloud robotics,” Computers & Electrical Engineering, vol. 63, pp. 99-113, 2017.
+
 •	Refereed Conference Papers
 1.	M. A. Ehsan, H. An, Z. Zhou, and Y. Yi, “Adaptation of Enhanced TSV Capacitance as Membrane Property in 3D Brain-inspired Computing System,” in Proceedings of the 54th Annual Design Automation Conference (DAC) 2017, p. 86.
 2.	H. An, M. S. Al-Mamun, M. K. Orlowski, and Y. Yi, “Learning Accuracy Analysis of Memristor-based Nonlinear Computing Module on Long Short-term Memory,” in Proceedings of the International Conference on Neuromorphic Systems, 2018, p. 5.
