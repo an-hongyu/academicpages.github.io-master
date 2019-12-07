@@ -14,6 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
 •	Refereed Book Chapters
 1.	H. An, K. Bai, and Y. Yi, “The Roadmap to Realize Memristive Three-Dimensional Neuromorphic Computing System,” in Advances in Memristor Neural Networks-Modeling and Applications: IntechOpen, 2018. 
 •	Refereed Journal Articles
