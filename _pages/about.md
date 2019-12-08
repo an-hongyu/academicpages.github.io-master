@@ -76,8 +76,8 @@ I am a junior researcher on Neuromorphic Computing, Artifical Intelligence. I re
 
 
 
-  <a href="/photo/2019-P05739.jpg" title="Image 11 title caption">
-    <img src="/photo/2019-P05739.jpg" alt="placeholder image 11" />
+  <a href="/academicpages.github.io-master///photo/2019-P05739.jpg" title="Image 11 title caption">
+    <img src="/academicpages.github.io-master///photo/2019-P05739.jpg" alt="placeholder image 11" />
   </a>
 
 
