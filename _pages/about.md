@@ -77,7 +77,7 @@ I am a junior researcher on Neuromorphic Computing, Artifical Intelligence. I re
 
 
   <a href="/minimal-mistakes/assets/images/unsplash-gallery-image-2.jpg" title="Image 11 title caption">
-    <img src="/assets/photo/2019-P05739.jpg" alt="placeholder image 11" />
+    <img src="/photo/2019-P05739.jpg" alt="placeholder image 11" />
   </a>
 
 
