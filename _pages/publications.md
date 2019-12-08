@@ -7,7 +7,7 @@ author_profile: true
 
 
 •	Refereed Book Chapters
-1.	H. An, K. Bai, and Y. Yi, “The Roadmap to Realize Memristive Three-Dimensional Neuromorphic Computing System,” in Advances in Memristor Neural Networks-Modeling and Applications: IntechOpen, 2018.
+1.	H. An, K. Bai, and Y. Yi, “[The Roadmap to Realize Memristive Three-Dimensional Neuromorphic Computing System] (https://www.intechopen.com/books/advances-in-memristor-neural-networks-modeling-and-applications/the-roadmap-to-realize-memristive-three-dimensional-neuromorphic-computing-system),” in Advances in Memristor Neural Networks-Modeling and Applications: IntechOpen, 2018.
  
 •	Refereed Journal Articles
 1.	H. An, Qiyuan An, Y. Yi, “Realizing Behavior Level Associative Memory Learning through Three-dimensional Memristor-based Neuromorphic Circuits”, IEEE Transactions on Emerging Topics in Computational Intelligence, 2019;
