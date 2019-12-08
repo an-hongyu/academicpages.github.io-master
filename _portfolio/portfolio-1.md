@@ -4,17 +4,17 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/photo/2019
 collection: portfolio
 
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+ 
 gallery:
     - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
+      image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+      alt: "placeholder image 1"
+      title: "Image 1 title caption"
     - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
+      image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+      alt: "placeholder image 2"
+      title: "Image 2 title caption"
     - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-    title: "Image 3 title caption"
+      image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+      alt: "placeholder image 3"
+      title: "Image 3 title caption"
