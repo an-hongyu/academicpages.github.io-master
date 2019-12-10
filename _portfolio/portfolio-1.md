@@ -20,5 +20,5 @@ gallery:
 collection: portfolio
 ---
 
-{% include gallery %}
+{% include gallery layout="half" %}
  
