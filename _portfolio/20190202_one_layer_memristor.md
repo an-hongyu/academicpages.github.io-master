@@ -1,5 +1,5 @@
 ---
-title: "Portfolio item number 1"
+title: "Fabricated One-layer Memristor Crossbar"
 gallery:
   - url: photo/2019_one_layer_memristor/IMG_2369_2.jpg
     image_path: photo/2019_one_layer_memristor/IMG_2369_2.jpg
