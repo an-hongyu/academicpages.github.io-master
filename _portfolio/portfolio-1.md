@@ -3,7 +3,7 @@ title: "Portfolio item number 1"
 excerpt: "Short description of portfolio item number 1<br/><img src='/photo/2019-P05739.jpg'>"
 collection: portfolio
 
-gallery:
+gallery2:
     - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: /assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -20,4 +20,4 @@ gallery:
 
  
   
-{% include gallery %}
+{% include gallery id="gallery2" caption="This is a second gallery example with images hosted externally." %}
