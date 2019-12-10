@@ -17,10 +17,6 @@ gallery:
     image_path: /photo/2019_ornl/IMG_3477.JPG
     alt: "placeholder image 4"
     title: "Image 5 title caption"
-  - url: /photo/2019_ornl/IMG_3503.JPG
-    image_path: /photo/2019_ornl/IMG_3503.JPG
-    alt: "placeholder image 4"
-    title: "Image 6 title caption"
   - url: /photo/2019_ornl/IMG_3537.JPG
     image_path: /photo/2019_ornl/IMG_3537.JPG
     alt: "placeholder image 4"
