@@ -25,10 +25,6 @@ gallery:
     image_path: /photo/2019_ornl/IMG_3539.JPG
     alt: "placeholder image 4"
     title: "Image 8 title caption"
-  - url: /photo/2019_ornl/IMG_3541.JPG
-    image_path: /photo/2019_ornl/IMG_3541.JPG
-    alt: "placeholder image 4"
-    title: "Image 9 title caption"
 collection: portfolio
 ---
 
