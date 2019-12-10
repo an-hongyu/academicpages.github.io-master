@@ -20,4 +20,4 @@ gallery2:
 
  
   
-{% include gallery caption="This is a second gallery example with images hosted externally." %}
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
