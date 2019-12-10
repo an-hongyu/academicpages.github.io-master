@@ -16,27 +16,23 @@ gallery:
   - url: /photo/2019_ornl/IMG_3477.JPG
     image_path: /photo/2019_ornl/IMG_3477.JPG
     alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - url: /photo/2019_ornl/IMG_3477.JPG
-    image_path: /photo/2019_ornl/IMG_3477.JPG
-    alt: "placeholder image 4"
-    title: "Image 4 title caption"
+    title: "Image 5 title caption"
   - url: /photo/2019_ornl/IMG_3503.JPG
     image_path: /photo/2019_ornl/IMG_3503.JPG
     alt: "placeholder image 4"
-    title: "Image 4 title caption"
+    title: "Image 6 title caption"
   - url: /photo/2019_ornl/IMG_3537.JPG
     image_path: /photo/2019_ornl/IMG_3537.JPG
     alt: "placeholder image 4"
-    title: "Image 4 title caption"
+    title: "Image 7 title caption"
   - url: /photo/2019_ornl/IMG_3539.JPG
     image_path: /photo/2019_ornl/IMG_3539.JPG
     alt: "placeholder image 4"
-    title: "Image 4 title caption"
+    title: "Image 8 title caption"
   - url: /photo/2019_ornl/IMG_3541.JPG
     image_path: /photo/2019_ornl/IMG_3541.JPG
     alt: "placeholder image 4"
-    title: "Image 4 title caption"
+    title: "Image 9 title caption"
 collection: portfolio
 ---
 
