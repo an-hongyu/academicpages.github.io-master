@@ -1,20 +1,20 @@
 ---
 title: "Portfolio item number 1"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+  - url: /photo/2019_ornl/2019-P05739.jpg
+    image_path: /photo/2019_ornl/2019-P05739.jpg
     alt: "placeholder image 1"
     title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - url: /photo/2019_ornl/2019-P06651.jpg
+    image_path: /photo/2019_ornl/2019-P06651.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+  - url: /photo/2019_ornl/group-2019.jpg
+    image_path: /assets/images/group-2019.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
-  - url: /assets/images/unsplash-gallery-image-4.jpg
-    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+  - url: /assets/images/IMG_3477.JPG
+    image_path: /assets/images/IMG_3477.JPG
     alt: "placeholder image 4"
     title: "Image 4 title caption"
 collection: portfolio
