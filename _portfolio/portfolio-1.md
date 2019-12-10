@@ -10,11 +10,11 @@ gallery:
     alt: "placeholder image 2"
     title: "Image 2 title caption"
   - url: /photo/2019_ornl/group-2019.jpg
-    image_path: /assets/images/group-2019.jpg
+    image_path: /photo/2019_ornl/group-2019.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
-  - url: /assets/images/IMG_3477.JPG
-    image_path: /assets/images/IMG_3477.JPG
+  - url: /photo/2019_ornl/IMG_3477.JPG
+    image_path: /photo/2019_ornl/IMG_3477.JPG
     alt: "placeholder image 4"
     title: "Image 4 title caption"
 collection: portfolio
