@@ -22,4 +22,3 @@ collection: portfolio
 
 {% include gallery %}
  
-{{gallery}} 
