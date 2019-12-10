@@ -21,4 +21,4 @@ collection: portfolio
 ---
 
  
-{{gallery2}} 
+{{gallery}} 
