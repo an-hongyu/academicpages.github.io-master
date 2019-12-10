@@ -20,5 +20,6 @@ gallery:
 collection: portfolio
 ---
 
+{% include gallery %}
  
 {{gallery}} 
