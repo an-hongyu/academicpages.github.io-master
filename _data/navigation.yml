@@ -3,6 +3,17 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Research"
+    url: /publications/
+  sublinks:
+    - title: FAQ
+      url: /faq.html
+    - title: Documentation
+      url: /documentation.html
+    - title: separator
+    - title: Customer Support
+      url: /customer-support.html
+
   - title: "Talks"
     url: /talks/    
 
