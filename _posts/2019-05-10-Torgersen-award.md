@@ -1,6 +1,6 @@
 ---
 title: 'Torgersen award'
-date: 2199-01-01
+date: 2019-05-10
 permalink: /posts/2012/08/blog-post-4/
 gallery:
   - url: photo/2019_one_layer_memristor/IMG_2369_2.jpg
