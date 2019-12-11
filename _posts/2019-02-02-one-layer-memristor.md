@@ -16,17 +16,8 @@ tags:
   - category1
   - category2
 ---
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+
 {% include gallery layout="half" %}
+With my friend Mohammad’s help, We successfully fabricated one-layer memristor crossbar (5 by 5) in [Micro & Nano Fabrication Laboratory]( https://www.micron.ece.vt.edu/) at VT. The testing for this device would be performed in the following months. 
 
 
-
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------

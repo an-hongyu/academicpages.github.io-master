@@ -19,14 +19,6 @@ tags:
  
 {% include gallery layout="half" %}
 
+We successfully fabricated two-layer memristor crossbar in [Micro & Nano Fabrication Laboratory]( https://www.micron.ece.vt.edu/) at VT. In this device, we creatively added several thermal dissipation layers for mitigating heat-related resistance variation of the memristors (more than 30% improvement). 
 
 
-
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
