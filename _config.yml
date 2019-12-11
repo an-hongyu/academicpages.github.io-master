@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Hongyu An"
 title_separator          : "-"
 name                     : &name "Hongyu An"
-description              : &description "personal description"
-url                      : https://an-hongyu.github.io/vt/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "A junior researcher"
+url                      : https://an-hongyu.github.io/vt/ # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : hongyu51@vt.edu
   generatedFields:
     date:
       type               : "date"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hongyu An"
   avatar           : "hongyu-an.jpg"
-  bio              : "A junior researcher "
+  bio              : "A junior researcher"
   location         : "Location"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=dSKJ0AUAAAAJ&hl=en"
-  email            :
+  email            : hongyu51@vt.edu
   researchgate     :  "https://www.researchgate.net/profile/Hongyu_An4"
   uri              :
   bitbucket        :
