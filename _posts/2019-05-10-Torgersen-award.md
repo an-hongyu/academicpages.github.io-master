@@ -14,7 +14,7 @@ tags:
 ---
 
  
-{% include gallery layout="third" %}
+{% include gallery layout="half" %}
 
 Our Ph.D. graduate student Hongyu An won the Paul E. Torgersen Research Excellence Awards in May 2019. 
 This is a very prestigious research accolade and recognizes only the top research performed by graduating masters’ and doctoral students across the College of Engineering at Virginia Tech. Hongyu is honored by his work on “Realizing Associative Memory Learning through Neuromorphic Circuits”, a cutting-edge research approach correlating two concurrent visual and auditory information together through Artificial Neural Networks. 
