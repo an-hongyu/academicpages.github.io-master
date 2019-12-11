@@ -5,7 +5,7 @@ main:
 
   - title: "Research"
     url: /publications/
-  sublinks:
+#  sublinks:
 #    - title: FAQ
 #      url: /faq.html
 #    - title: Documentation
