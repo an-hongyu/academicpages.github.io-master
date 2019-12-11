@@ -1,7 +1,7 @@
 ---
 title: 'Fabricated One-layer Memristor Crossbar'
-date: 2019-08-14
-permalink: /posts/2019/08/One-layer-Memristor-Crossbar/
+date: 2019-02-02
+permalink: /posts/2019/One-layer-Memristor-Crossbar/
 gallery:
   - url: photo/2019_one_layer_memristor/IMG_2369_2.jpg
     image_path: photo/2019_one_layer_memristor/IMG_2369_2.jpg

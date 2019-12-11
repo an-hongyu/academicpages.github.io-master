@@ -1,7 +1,7 @@
 ---
 title: 'Torgersen award'
 date: 2019-05-10
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2019/05/10/Torgersen-award
 gallery:
   - url: photo/2019_one_layer_memristor/IMG_2369_2.jpg
     image_path: photo/2019_one_layer_memristor/IMG_2369_2.jpg
