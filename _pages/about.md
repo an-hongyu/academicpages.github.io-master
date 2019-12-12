@@ -36,7 +36,7 @@ Work Experiences:
 
 Awards and Honors:
 ------
-•	Paul E. Torgersen Graduate Student Research Excellence Award: Top 3 of the Research Competition at the Engineering College of Virginia Tech for the research topic of "Realizing Associative Memory Learning through Neuromorphic Circuits" in 2019
+•	Paul E. Torgersen Graduate Student Research Excellence Award: honored by the work of "Realizing Associative Memory Learning through Neuromorphic Circuits" in 2019
 
 •	Fellowship from the Oak Ridge National Laboratory Advanced Short-Term Research Opportunity Program (ASTRO) in 2019
 
