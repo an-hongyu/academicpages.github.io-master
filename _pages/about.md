@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a researcher on Neuromorphic Computing, Neuromorphic Electronic Circuits Design using Emerging Devices, and Artificial Intelligence. I currently pursuing his doctoral degree in the Bradley Department of Electrical and Computer Engineering, Virginia Tech under the supervision of Prof. Yi, Yang (Cindy). His research interests include neuromorphic computing, nano-electronic devices and circuits for energy-efficient neuromorphic systems, machine learning, and artificial intelligence.
+I am a researcher on Neuromorphic Computing, Neuromorphic Electronic Circuits Design using Emerging Devices, and Artificial Intelligence. I currently pursuing his doctoral degree in the Bradley Department of Electrical and Computer Engineering, Virginia Tech under the supervision of Prof. Yi, Yang (Cindy). My research interests include neuromorphic computing, nano-electronic devices and circuits for energy-efficient neuromorphic systems, machine learning, and artificial intelligence. In my spare time, I’d like to watch movies, read books, do exercises, and sleep. 
 
 Resaerch Interest: 
 ------
