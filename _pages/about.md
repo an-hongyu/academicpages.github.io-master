@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am a researcher on Neuromorphic Computing, Neuromorphic Electronic Circuits Design using Emerging Devices, and Artificial Intelligence. I currently pursuing his doctoral degree in the Bradley Department of Electrical and Computer Engineering, Virginia Tech under the supervision of Prof. Yi, Yang (Cindy). My research interests include neuromorphic computing, nano-electronic devices and circuits for energy-efficient neuromorphic systems, machine learning, and artificial intelligence. In my spare time, I’d like to watch movies, read books, do exercises, and sleep. 
+I am a researcher on Neuromorphic Computing, Neuromorphic Electronic Circuits Design using Emerging Devices, and Artificial Intelligence. I was born in Shenyang, a small town in the northeast of China. I spent all my childhood in Shenyang, mostly in public library reading popular science books, like One, Two, Three...Infinity, The Feynman Lectures on Physics, etc. Although I did not fully understand what they are talking about then. I also read a lot of scientific fictions, such as I, robot, Twenty Thousand Leagues Under the Seas. The dramatic stories and interesting knowledge in these books ignited my interest in science and technology, and eventually leads me to here, a Ph.D. candidate in electrical engineering at Virginia Tech. In my spare time, I’d like to watch movies, read books, do exercises, and sleep.  
 
 Resaerch Interest: 
 ------
