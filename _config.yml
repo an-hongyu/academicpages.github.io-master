@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hongyu An"
 title_separator          : "-"
 name                     : &name "Hongyu An"
-description              : &description "A junior researcher Email: hongyu51@vt.edu"
+description              : &description "A junior researcher"
 url                      : https://an-hongyu.github.io/vt/ # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hongyu An"
   avatar           : "hongyu-an.jpg"
-  bio              : "A junior researcher"
+  bio              : "A junior researcher  Email: hongyu51@vt.edu"
   location         : "Location"
   employer         :
   pubmed           :
