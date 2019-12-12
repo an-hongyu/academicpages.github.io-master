@@ -10,18 +10,28 @@ redirect_from:
 
 
 
-I am a junior researcher on Neuromorphic Computing, Artifical Intelligence. I received a B.S. degree in Electrical Engineering from Shenyang University of Technology, Shenyang, China and an M.S. degree in Electrical Engineering from Missouri University of Science and Technology, Rolla, USA. He is currently pursuing his doctoral degree in the Bradley Department of Electrical and Computer Engineering, Virginia Tech. He is the awardee of the Paul E. Torgersen Research Excellence Award in 2019 and the recipient of the NSF Student Travel Fellowship Award in 2017. One of his paper has been nominated as the best paper award finalist at IEEE International Symposium on Quality Electronic Design in 2017. His research interests include neuromorphic computing, nano-electronic devices and circuits for energy-efficient neuromorphic systems, machine learning, and artificial intelligence.
+I am a researcher on Neuromorphic Computing, Neuromorphic Electronic Circuits Design using Emerging Devices, and Artificial Intelligence. I currently pursuing his doctoral degree in the Bradley Department of Electrical and Computer Engineering, Virginia Tech under the supervision of Prof. Yi, Yang (Cindy). His research interests include neuromorphic computing, nano-electronic devices and circuits for energy-efficient neuromorphic systems, machine learning, and artificial intelligence.
 
-
-My Research 
-======
-
-
-Memristor-based Neuromorphic Computing System 
+Resaerch Interest: 
 ------
- 
+ •	Neuromorphic Engineering/Computing
+ •	Energy-Efficient Neuromorphic Electronic Circuits Design
+ •	Emerging Nanoscale Device Design (Memristor)
+ •	Machine Learning, Deep Learning, Spiking Neural Networks, Binarized Neural Networks, Reservoir Computing
+ •	Artificial Intelligence
 
-Associative Memory Learning
+Education:
 ------
+•	MS, Electrical Engineering, Missouri University of Science and Technology, Rolla, MO, USA
+•	BS, Electrical Engineering, Shenyang University of Technology, Shenyang, Liaoning, China
 
+Work Experiences:
+------
+•	Neuromorphic Algorithms Intern at Oak Ridge National Laboratory, Oak Ridge, summer 2019
 
+Awards and Honors:
+------
+•	Paul E. Torgersen Graduate Student Research Excellence Award: Top 3 of the Research Competition at the Engineering College of Virginia Tech for the research topic of "Realizing Associative Memory Learning through Neuromorphic Circuits" in 2019
+•	Fellowship from the Oak Ridge National Laboratory Advanced Short-Term Research Opportunity Program (ASTRO) in 2019
+•	NSF Student Travel Fellowship Reward on IEEE International Conference on Nanotechnology (IEEE NANO 2017)
+•	Best Paper Nomination in 18th IEEE International Symposium on Quality Electronic Design (ISQED), 2017
