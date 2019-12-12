@@ -43,3 +43,39 @@ Awards and Honors:
 •	NSF Student Travel Fellowship Reward on IEEE International Conference on Nanotechnology (IEEE NANO 2017)
 
 •	Best Paper Nomination in 18th IEEE International Symposium on Quality Electronic Design (ISQED), 2017
+
+Journal/Conference Reviewer:
+------
+•	IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+
+•	IEEE Transactions on Circuits and System I: Regular Papers (TCAS)
+
+•	IEEE International Conference on Nanotechnology (TNANO)
+
+•	Neurocomputing
+
+•	Integration, the VLSI Journal
+
+•	Design Automation Conference (DAC)
+
+•	Design, Automation and Test in Europe Conference and Exhibition (DATE)
+
+•	IEEE International Symposium on Circuits and Systems (ISCAS)
+
+•	IEEE/ACM International Conference On Computer-Aided Design (ICCAD)
+
+•	ACM Great Lakes Symposium on VLSI (GLSVLSI)
+
+•	IEEE International Symposium on Quality Electronic Design (ISQED)
+
+•	IEEE International Symposium on Electromagnetic Compatibility, Signal and Power Integrity (EMC-SIPI)
+
+
+Skills:
+------
+•	Programming: MATLAB, C/C++, LabView, PHP, Python, Java
+
+•	Software: HFSS, CST, PSPICE, ADS, Hyperlynx, Q3D, Q2D, HSPICE, Altium
+
+•	Instruments: Network Analyzer, TDR, Spectrum Analyzer, Oscilloscope, Signal generator
+
