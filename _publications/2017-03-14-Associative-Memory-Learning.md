@@ -1,9 +1,8 @@
 ---
 title: "Associative Memory Learning"
 collection: Talks
-type: "Talk"
+type: "single"
 permalink: /research/2017-03-14-Associative-Memory-Learning
-date:""
 venue: ""
 ---
 

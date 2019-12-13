@@ -1,7 +1,7 @@
 ---
 title: "Memristive Binarized Neural Networks"
 collection: Talks
-type: "Talk"
+type: "single"
 permalink: /research/Memristive-Binarized-Neural-Networks
 venue: ""
 ---
