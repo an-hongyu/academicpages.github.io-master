@@ -18,6 +18,6 @@ tags:
 ---
 
 {% include gallery layout="half" %}
-With my friend [Mohammad](https://www.linkedin.com/in/mohammad-shah-al-mamun/)’s help, We successfully fabricated one-layer memristor crossbar (5 by 5) in [Micro & Nano Fabrication Laboratory](https://www.micron.ece.vt.edu/) at VT. The testing for this device would be performed in the following months. 
+With my friend [Mohammad](https://www.linkedin.com/in/mohammad-shah-al-mamun/)’s help and [Prof.Orlowski](https://ece.vt.edu/people/profile/orlowski)’s support, We successfully fabricated one-layer memristor crossbar (5 by 5) in [Micro & Nano Fabrication Laboratory](https://www.micron.ece.vt.edu/) at VT. The testing for this device would be performed in the following months. 
 
 
