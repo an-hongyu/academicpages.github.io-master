@@ -146,7 +146,7 @@ img {vertical-align: middle;}
 </div>
 
 <script>
-var slideIndex = 0;
+var slideIndex = 1;
 showSlides();
 
 function showSlides() {
