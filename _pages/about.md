@@ -117,7 +117,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">1 / 3</div>
-  <img src="https://an-hongyu.github.io/vt/images/photo/20190510_Torgersen_award/DSC_0185_2.jpg" style="width:100%">
+  <img src="https://an-hongyu.github.io/vt/images/photo/20191111_two_layer_memristor/IMG_3975_2.JPG" style="width:100%">
   <div class="text">Caption Text</div>
 </div>
 
@@ -129,7 +129,7 @@ img {vertical-align: middle;}
 
 <div class="mySlides fade">
   <div class="numbertext">3 / 3</div>
-  <img src="https://an-hongyu.github.io/vt/images/photo/20191111_two_layer_memristor/IMG_3975_2.JPG" style="width:100%">
+  <img src="https://an-hongyu.github.io/vt/images/photo/20190510_Torgersen_award/DSC_0185_2.jpg" style="width:100%">
   <div class="text">Caption Three</div>
 </div>
 
