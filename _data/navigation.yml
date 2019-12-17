@@ -18,8 +18,8 @@ main:
   - title: "News"
     url: /year-archive/
     
-# - title: "CV"
-#   url: /cv/
+ - title: "Services"
+   url: /Services/
     
  # - title: "Guide"
  #   url: /markdown/
