@@ -6,8 +6,7 @@ permalink: /research/2017-03-14-Associative-Memory-Learning
 venue: ""
 ---
 <html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+
 <style>
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
