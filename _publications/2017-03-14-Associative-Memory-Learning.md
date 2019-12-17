@@ -194,8 +194,11 @@ In my work, I design a brain-like associative memory learning system that can me
 Related Articles:
 
 •	H. An, Qiyuan An, Y. Yi, “[Realizing Behavior Level Associative Memory Learning through Three-dimensional Memristor-based Neuromorphic Circuits](https://ieeexplore.ieee.org/abstract/document/8753741/)”, IEEE Transactions on Emerging Topics in Computational Intelligence, 2019;
+
 •	H. An, Z. Zhou, and Y. Yi, “[Memristor-based 3D neuromorphic computing system and its application to associative memory learning](https://ieeexplore.ieee.org/abstract/document/8117459),” in IEEE 17th International Conference on Nanotechnology (IEEE-NANO), 2017, pp. 555-560.
+
 •	H. An, K. Bai, and Y. Yi, [The Roadmap to Realize Memristive Three-Dimensional Neuromorphic Computing System](https://www.intechopen.com/books/advances-in-memristor-neural-networks-modeling-and-applications/the-roadmap-to-realize-memristive-three-dimensional-neuromorphic-computing-system),” in Advances in Memristor Neural Networks-Modeling and Applications: IntechOpen, 2018.
+
 •	H. An, Z. Zhou, and Y. Yi, “[Opportunities and challenges on nanoscale 3D neuromorphic computing system](https://ieeexplore.ieee.org/abstract/document/8077906),” in Electromagnetic Compatibility & Signal/Power Integrity (EMCSI), 2017 IEEE International Symposium on, 2017, pp. 416-421.
    
 
