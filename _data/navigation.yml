@@ -12,14 +12,14 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/
     
-  - title: "Portfolio"
-    url: /portfolio/
+#  - title: "Portfolio"
+#    url: /portfolio/
         
   - title: "News"
     url: /year-archive/
     
-  - title: "Services"
-   url: /Services/
+#  - title: "Services"
+#   url: /Services/
     
  # - title: "Guide"
  #   url: /markdown/
