@@ -114,31 +114,31 @@ img {vertical-align: middle;}
 <div class="slideshow-container">
 
 <div class="mySlides fade">
-  <div class="numbertext">1 / 3</div>
+  <div class="numbertext">1 / 5</div>
   <img src="https://an-hongyu.github.io/vt/images/photo/associative_memory/motivation.PNG" style="width:100%">
   <div class="text">Two-layer Memristor</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">2 / 3</div>
+  <div class="numbertext">2 / 5</div>
   <img src="https://an-hongyu.github.io/vt/images/photo/associative_memory/associative_memory_learning.PNG" style="width:100%">
   <div class="text">Oak Ridge National Laboratory</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img src="https://an-hongyu.github.io/vt/images/photo/associative_memory/associative_memory_learning2.PNG" style="width:100%">
+  <div class="numbertext">3 / 5</div>
+  <img src="https://an-hongyu.github.io/vt/images/photo/associative_memory/associative_memory_learning_2.PNG" style="width:100%">
   <div class="text">Paul E. Torgersen Researrch Excellence Award</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
-  <img src="https://an-hongyu.github.io/vt/images/photo/associative_memory/associative_memory_learning3.PNG" style="width:100%">
+  <div class="numbertext">4 / 5</div>
+  <img src="https://an-hongyu.github.io/vt/images/photo/associative_memory/associative_memory_learning_3.PNG" style="width:100%">
   <div class="text">Paul E. Torgersen Researrch Excellence Award</div>
 </div>
 
 <div class="mySlides fade">
-  <div class="numbertext">3 / 3</div>
+  <div class="numbertext">5 / 5</div>
   <img src="https://an-hongyu.github.io/vt/images/photo/associative_memory/conclusion.PNG" style="width:100%">
   <div class="text">Paul E. Torgersen Researrch Excellence Award</div>
 </div>
@@ -192,6 +192,7 @@ In my work, I design a brain-like associative memory learning system that can me
 
 
 Related Articles:
+
 •	H. An, Qiyuan An, Y. Yi, “[Realizing Behavior Level Associative Memory Learning through Three-dimensional Memristor-based Neuromorphic Circuits](https://ieeexplore.ieee.org/abstract/document/8753741/)”, IEEE Transactions on Emerging Topics in Computational Intelligence, 2019;
 •	H. An, Z. Zhou, and Y. Yi, “[Memristor-based 3D neuromorphic computing system and its application to associative memory learning](https://ieeexplore.ieee.org/abstract/document/8117459),” in IEEE 17th International Conference on Nanotechnology (IEEE-NANO), 2017, pp. 555-560.
 •	H. An, K. Bai, and Y. Yi, [The Roadmap to Realize Memristive Three-Dimensional Neuromorphic Computing System](https://www.intechopen.com/books/advances-in-memristor-neural-networks-modeling-and-applications/the-roadmap-to-realize-memristive-three-dimensional-neuromorphic-computing-system),” in Advances in Memristor Neural Networks-Modeling and Applications: IntechOpen, 2018.
