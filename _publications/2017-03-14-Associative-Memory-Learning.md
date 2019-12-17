@@ -5,8 +5,10 @@ type: "single"
 permalink: /research/2017-03-14-Associative-Memory-Learning
 venue: ""
 ---
+Associative memory is a ubiquitous self-learning method of animals, which enables their neural system to memorize the relationship between two concurrent events. The significance of rebuilding associative is not only to reveal a way of designing a brain-like self-learning neuromorphic system but also to explore a method of comprehending the learning mechanism of a nervous system. 
 <html>
-
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
@@ -185,7 +187,7 @@ function showSlides(n) {
 </body>
 </html> 
 
-Associative memory is a ubiquitous self-learning method of animals, which enables their neural system to memorize the relationship between two concurrent events. The significance of rebuilding associative is not only to reveal a way of designing a brain-like self-learning neuromorphic system but also to explore a method of comprehending the learning mechanism of a nervous system. The investigations on associative memory reveal that two critical features play important roles: synaptic connecting strength modification and distributed data processing. In nervous systems, the different captured signals, e.g., image and sound, are preprocessed at the different regions of the brain. During the learning process, the synaptic connection strength between the sensory and response neurons increases, consequently to increase the received signal at response neurons. 
+The investigations on associative memory reveal that two critical features play important roles: synaptic connecting strength modification and distributed data processing. In nervous systems, the different captured signals, e.g., image and sound, are preprocessed at the different regions of the brain. During the learning process, the synaptic connection strength between the sensory and response neurons increases, consequently to increase the received signal at response neurons. 
 In my work, I design a brain-like associative memory learning system that can memorize the relationship of concurrent visual and auditory information by correlating the probabilistic output scores of ANNs together. The hybrid information is associated together through two procedures: preprocessing phase and association phase. In the preprocessing phase, the auditory signal and the visual signal are separately preprocessed by the ANNs. Then the prediction scores are represented by a sequence of spikes. In this way, the information carried by the original data (visual and auditory information) is abstracted into the spiking signals. Then, these spiking signals are coupled together by our so-called associative memory network (AMNs). 
 
 
