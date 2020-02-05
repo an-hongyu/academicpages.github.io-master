@@ -7,14 +7,14 @@ author_profile: true
 
 
 •	Refereed Book Chapters
-1.	**H. An**, K. Bai, and Y. Yi, [The Roadmap to Realize Memristive Three-Dimensional Neuromorphic Computing System](https://www.intechopen.com/books/advances-in-memristor-neural-networks-modeling-and-applications/the-roadmap-to-realize-memristive-three-dimensional-neuromorphic-computing-system),” in Advances in Memristor Neural Networks-Modeling and Applications: IntechOpen, 2018.
+1.	**H. An** <sup>*</sup>, K. Bai, and Y. Yi, [The Roadmap to Realize Memristive Three-Dimensional Neuromorphic Computing System](https://www.intechopen.com/books/advances-in-memristor-neural-networks-modeling-and-applications/the-roadmap-to-realize-memristive-three-dimensional-neuromorphic-computing-system),” in Advances in Memristor Neural Networks-Modeling and Applications: IntechOpen, 2018.
  
 •	Refereed Journal Articles
-1.	**H. An**, Mohammad S. Al-Mamun, Marius K. Orlowski, Lingjia Liu, Y. Yi, “[Robust Deep Reservoir Computing through Reliable Memristor with Improved Heat Dissipation Capability]()”, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2020 (major revision);
-2.	**H. An**, Qiyuan An, Y. Yi, “[Realizing Behavior Level Associative Memory Learning through Three-dimensional Memristor-based Neuromorphic Circuits](https://ieeexplore.ieee.org/abstract/document/8753741/)”, IEEE Transactions on Emerging Topics in Computational Intelligence, 2019;
+1.	**H. An**<sup>*</sup>, Mohammad S. Al-Mamun, Marius K. Orlowski, Lingjia Liu, Y. Yi, “[Robust Deep Reservoir Computing through Reliable Memristor with Improved Heat Dissipation Capability]()”, IEEE Transactions on Very Large Scale Integration (VLSI) Systems, 2020 (major revision);
+2.	**H. An**<sup>*</sup>, Qiyuan An, Y. Yi, “[Realizing Behavior Level Associative Memory Learning through Three-dimensional Memristor-based Neuromorphic Circuits](https://ieeexplore.ieee.org/abstract/document/8753741/)”, IEEE Transactions on Emerging Topics in Computational Intelligence, 2019;
 3.	M. A. Ehsan, **H. An**, Z. Zhou, and Y. Yi, “[A Novel Approach for using TSVs as Membrane Capacitance in Neuromorphic 3D IC](https://ieeexplore.ieee.org/abstract/document/8060601),” IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2017
-4.	**H. An**, M. A. Ehsan, Z. Zhou, F. Shen, and Y. Yi, “[Monolithic 3D neuromorphic computing system with hybrid CMOS and memristor-based synapses and neurons](https://www.sciencedirect.com/science/article/pii/S0167926017303413),” Integration, the VLSI Journal, 2017.
-5.	**H. An**, J. Li, Y. Li, X. Fu, and Y. Yi, “[Three dimensional memristor-based neuromorphic computing system and its application to cloud robotics](https://www.sciencedirect.com/science/article/pii/S0045790617318475),” Computers & Electrical Engineering, vol. 63, pp. 99-113, 2017.
+4.	**H. An**<sup>*</sup>, M. A. Ehsan, Z. Zhou, F. Shen, and Y. Yi, “[Monolithic 3D neuromorphic computing system with hybrid CMOS and memristor-based synapses and neurons](https://www.sciencedirect.com/science/article/pii/S0167926017303413),” Integration, the VLSI Journal, 2017.
+5.	**H. An**<sup>*</sup>, J. Li, Y. Li, X. Fu, and Y. Yi, “[Three dimensional memristor-based neuromorphic computing system and its application to cloud robotics](https://www.sciencedirect.com/science/article/pii/S0045790617318475),” Computers & Electrical Engineering, vol. 63, pp. 99-113, 2017.
 
 •	Refereed Conference Papers
 1.	M. A. Ehsan, **H. An**, Z. Zhou, and Y. Yi, “[Adaptation of Enhanced TSV Capacitance as Membrane Property in 3D Brain-inspired Computing System](https://ieeexplore.ieee.org/abstract/document/8060458),” in Proceedings of the 54th Annual Design Automation Conference (DAC) 2017, p. 86.
@@ -27,3 +27,5 @@ author_profile: true
 8.	C. Zhao, J. Li, **H. An**, and Y. Yi, “When Energy Efficient Spike-Based Temporal Encoding Meets Resistive Crossbar: From Circuit Design to Application,” in Proceedings of Neuromorphic Computing Symposium, 2017.
 9.	**H. An**, M. A. Ehsan, Z. Zhou, and Y. Yi, “[Electrical modeling and analysis of 3D Neuromorphic IC with Monolithic Inter-tier Vias](https://ieeexplore.ieee.org/abstract/document/7835424),” in Electrical Performance of Electronic Packaging and Systems (EPEPS), 2016 IEEE 25th Conference on, 2016, pp. 87-90.
 10.	M. A. Ehsan, **H. An**, Z. Zhou, and Y. Yi, “[Design challenges and methodologies in 3D integration for neuromorphic computing systems](https://ieeexplore.ieee.org/abstract/document/7479151),” in Quality Electronic Design (ISQED), 2016 17th International Symposium on, 2016, pp. 24-28.
+
+<sup>*</sup> corresponding author
