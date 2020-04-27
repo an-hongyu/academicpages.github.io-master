@@ -187,7 +187,7 @@ I am a researcher on Neuromorphic Computing, Neuromorphic Electronic Circuits De
 
 Student Recruiting 
 ------
-I will be joining the ECE department of [Michigan Tech](https://www.mtu.edu/ece/) in Fall 2020, serving as an assistant professor. 
+I will be joining the ECE department of [Michigan Tech](https://www.mtu.edu/ece/) in Fall 2020, serving as an assistant professor.
 
 Multiple Master and Ph.D. positions with full RA/TA support are available in Hongyu An's research group starting from Fall 2020 or Spring 2021.
 Neuromorphic computing is an emerging research topic that realizes artificial intelligence by mimicking and recreating the human brain, including neurons, synapse, and neural networks. This approach involves both hardware design and algorithm developing, such as circuit design, FPGA, neural network algorithms. 
@@ -226,7 +226,7 @@ Desired Skills:
  
  •	Good writing and communication skills 
 
-Resaerch Interest: 
+Research Interest: 
 ------
  •	Neuromorphic Engineering/Computing
  
