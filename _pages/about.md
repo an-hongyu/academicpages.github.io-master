@@ -185,6 +185,47 @@ About Me
 ------
 I am a researcher on Neuromorphic Computing, Neuromorphic Electronic Circuits Design using Emerging Devices, and Artificial Intelligence. I am a doctoral candidate in the [Bradley Department of Electrical and Computer Engineering (ECE)](https://ece.vt.edu/) at [Virginia Tech](https://vt.edu/) (VT). At VT, I am a research assistant under supervision of [Prof. Yang (Cindy) Yi](https://www.yangyi.ece.vt.edu/) in the [Multifunctional Integrated Circuits and Systems Group (MICS)](https://www.mics.ece.vt.edu/). Prior to joining VT, I obtained a master’s degree in the [Electrical and Computer Engineering Department](https://ece.mst.edu/) at [Missouri University of Science and Technology](https://www.mst.edu/) (MST). At MST, I worked with [Prof. Jun Fan](https://emclab.mst.edu/members/faculty/jun-fan/) on the High-speed Design and Signal Integrity projects from Apple and Sony.  During my doctoral period, I worked with [Dr. Zhen Zhou](https://www.linkedin.com/in/zhen-zhou-06484610/) (Intel Labs) on three-dimensional neuromorphic circuit design combining with traditional CMOS technology and memristors. In 2019, I worked with [Dr. Katie Schuman](https://www.ornl.gov/staff-profile/catherine-d-schuman) (Oak Ridge National Laboratory) on developing a new training method for Spiking Neural Networks.  I was born in Shenyang, a small town in the northeast of China. I spent all my childhood in Shenyang, mostly in public library reading popular science books, like One, Two, Three...Infinity, The Feynman Lectures on Physics, etc. Although I did not fully understand what they are talking about then. I also read a lot of science fiction books, such as I, robot, Twenty Thousand Leagues Under the Seas. The dramatic stories and interesting knowledge in these books ignited my interest in science and technology, and eventually leads me to here, a Ph.D. candidate in electrical engineering at Virginia Tech. In my spare time, I’d like to watch movies, read books, do exercises, and sleep.   
 
+Student Recruiting 
+------
+I will be joining the ECE department of [Michigan Tech](https://www.mtu.edu/ece/) in Fall 2020, serving as an assistant professor. 
+
+Multiple Master and Ph.D. positions with full RA/TA support are available in Hongyu An's research group starting from Fall 2020 or Spring 2021.
+Neuromorphic computing is an emerging research topic that realizes artificial intelligence by mimicking and recreating the human brain, including neurons, synapse, and neural networks. This approach involves both hardware design and algorithm developing, such as circuit design, FPGA, neural network algorithms. 
+The candidates are expected with either excellent programming capability or hardware design experience. The projects will be assigned based on your background. Two directions can be considered with different responsibilities: 
+1.	Software direction: help the PI to develop training algorithm on Spiking Neural Networks and Associative Memory Learning 
+2.	Hardware direction: assist the PI to design the corresponding circuits (CMOS, emerging devices) and architecture simulators for Spiking Neural Networks and Associative Memory Learning
+
+Basic Qualifications:
+
+ •	Basic understanding of deep learning, neural networks
+ 
+ •	Relevant research experience in machine learning, deep learning, artificial intelligence
+ 
+ •	Hands-on experience with the latest artificial intelligence and machine learning libraries
+ 
+ •	Programming experience in one or more of the following languages: Python, C++, Java, etc. 
+ 
+ •	Programming experience on deep learning platforms: Pytorch, TensorFlow, etc. 
+ 
+ •	Circuit design experience with Virtuoso, Cadence, SPICE, etc. 
+
+
+Preferred Qualifications:
+
+ •	Relevant research experience in neuromorphic computing, brain-inspired computing
+ 
+ •	Relevant research experience on Spiking Neural Networks
+ 
+ •	Experience with high-performance computing and novel computing architectures.
+ 
+Desired Skills:
+
+ •	Programming experience with Python, Pytorch, TensorFlow, Java, C++, etc. 
+ 
+ •	Experience with Circuit design, Virtuoso, Cadence, HSPICE, Verilog-A, etc. 
+ 
+ •	Good writing and communication skills 
+
 Resaerch Interest: 
 ------
  •	Neuromorphic Engineering/Computing
