@@ -189,9 +189,8 @@ Student Recruiting
 ------
 I will be joining the ECE department of [Michigan Tech](https://www.mtu.edu/ece/) in Fall 2020, serving as an assistant professor.
 
-Multiple Master and Ph.D. positions with full RA/TA support are available in Hongyu An's research group starting from Fall 2020 or Spring 2021. If you are interested, please send your CV/resume, transcripts, GRE/TOEFL score (if applicable) to <strong>hongyua@mtu.edu.
-                                                                                                                                                
-                                                                                                                                                Other detailed requirements from the department/college can be found at https://www.mtu.edu/ece/graduate/electrical/
+Multiple Master and Ph.D. positions with full RA/TA support are available in Hongyu An's research group starting from Fall 2020 or Spring 2021. If you are interested, please send your CV/resume, transcripts, GRE/TOEFL score (if applicable) to <strong>hongyua@mtu.edu</strong>.
+Other detailed requirements from the department/college can be found at https://www.mtu.edu/ece/graduate/electrical/
 Neuromorphic computing is an emerging research topic that realizes artificial intelligence by mimicking and recreating the human brain, including neurons, synapse, and neural networks. This approach involves both hardware design and algorithm developing, such as circuit design, FPGA, neural network algorithms. 
 The candidates are expected with either excellent programming capability or hardware design experience. The projects will be assigned based on your background. Two directions can be considered with different responsibilities: 
 1.	Software direction: help the PI to develop training algorithm on Spiking Neural Networks and Associative Memory Learning 
